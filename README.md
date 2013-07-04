@@ -7,7 +7,8 @@ source: https://github.com/streamio/streamio-ffmpeg
  - Installing Gems: Go to the application folder and run “bundle install –path vendor”
 
 ### How to run
-bundle exec rackup config.ru
+Go to the application folder and run: tbundle exec rackup config.ru
+
 Visit http://localhost:9292
 
 
