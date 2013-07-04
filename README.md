@@ -4,10 +4,10 @@
 source: https://github.com/streamio/streamio-ffmpeg
 ### How to install
  - Installing FFMPEG: In terminal type “brew install ffmpeg” or download the file from ffmpegmac.net and copy to /usr/local/bin
- - Installing Gems: Go to the application folder and run “bundle install –path vendor”
+ - Installing Gems: Go to the application folder and run “bundle install --path vendor”
 
 ### How to run
-Go to the application folder and run: tbundle exec rackup config.ru
+Go to the application folder and run: bundle exec rackup config.ru
 
 Visit http://localhost:9292
 
